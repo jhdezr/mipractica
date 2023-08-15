@@ -2,6 +2,12 @@ body {
     background-color: skyblue;
 }
 
+div {
+    padding: 70px;
+    border: 1px solid #4CAF50;
+    background-color: rgb(128, 197, 25);
+}
+
 /*
 Selector
 Indica el elemento al que queremos darle estilos. Ahora mismo nos centraremos en 3 selectores básicos:
